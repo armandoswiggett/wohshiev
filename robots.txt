@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobiedeho.davidsoles.com/sitemap.xml
